@@ -1,7 +1,6 @@
 # hello-world
 
-Hi Humans!
+Hey everybody. 
 
-Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+New here and I have no idea what I'm doing. Hopefully I can look back at this someday and see the humble beginning of something great. 
     
